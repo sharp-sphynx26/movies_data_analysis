@@ -35,7 +35,7 @@ The raw dataset was cleaned and prepared for analysis before performing EDA and 
 
 ## Tools & Technologies Used
 
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Python (Pandas, NumPy, Matplotlib)
 - Jupyter Notebook
 - MySQL
 - Git & GitHub
